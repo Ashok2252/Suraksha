@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "246393289548",
+    "firebase_url": "https://suraksha-womensafety.firebaseio.com",
+    "project_id": "suraksha-womensafety",
+    "storage_bucket": "suraksha-womensafety.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246393289548:android:eeadc35e79fb20f79d2de9",
+        "android_client_info": {
+          "package_name": "com.example.Suraksha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246393289548-5988opi6osbrn23asoii5bn0mhb67ct9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Suraksha",
+            "certificate_hash": "6c220acf37d689756233ed1f77aca9a90a590ab3"
+          }
+        },
+        {
+          "client_id": "246393289548-re7cqild7hti0l4362ts8bqtj8qge039.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEA7bRZpdQityHpVA0jIgXISTWc2SD2p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246393289548-re7cqild7hti0l4362ts8bqtj8qge039.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
